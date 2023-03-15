@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\exercicio\\exercicio.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Aluno-nota\\exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\exercicio\\exercicio.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Aluno-nota\\exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\exercicio\\exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Aluno-nota\\exercicio.csproj",
         "projectName": "exercicio",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\exercicio\\exercicio.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Aluno-nota\\exercicio.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\exercicio\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Aluno-nota\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

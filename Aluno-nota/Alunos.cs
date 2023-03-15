@@ -7,8 +7,13 @@ class Alunos
 
     //MEDIA -> retorna um double (por exemplo um número como 8.3)
 
-    public double obterMedia(){
+    /*public double obterMedia(){
         double media= (nota1+nota2)/2;
+        return media;
+    }*/
+
+    public double obterMedia(){
+        double media = (nota1+nota2)/2;
         return media;
     }
 
@@ -31,4 +36,5 @@ class Alunos
         string resultadoSituacao = obterSituacao(mediaCalculada);
         Console.WriteLine(nome+" está "+resultadoSituacao+" com média "+mediaCalculada);
     }
+
 }
