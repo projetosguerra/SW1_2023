@@ -1,0 +1,15 @@
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\bin\Debug\net6.0\Conta-Bancaria.exe
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\bin\Debug\net6.0\Conta-Bancaria.deps.json
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\bin\Debug\net6.0\Conta-Bancaria.runtimeconfig.json
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\bin\Debug\net6.0\Conta-Bancaria.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\bin\Debug\net6.0\Conta-Bancaria.pdb
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\refint\Conta-Bancaria.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.pdb
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\Conta-Bancaria.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\Conta-Bancaria\obj\Debug\net6.0\ref\Conta-Bancaria.dll
