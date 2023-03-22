@@ -1,0 +1,15 @@
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.csproj.AssemblyReference.cache
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.GeneratedMSBuildEditorConfig.editorconfig
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.AssemblyInfoInputs.cache
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.AssemblyInfo.cs
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.csproj.CoreCompileInputs.cache
+E:\SW_1-2023\Exercicio_Aviao\bin\Debug\net6.0\Exercicio_Aviao.exe
+E:\SW_1-2023\Exercicio_Aviao\bin\Debug\net6.0\Exercicio_Aviao.deps.json
+E:\SW_1-2023\Exercicio_Aviao\bin\Debug\net6.0\Exercicio_Aviao.runtimeconfig.json
+E:\SW_1-2023\Exercicio_Aviao\bin\Debug\net6.0\Exercicio_Aviao.dll
+E:\SW_1-2023\Exercicio_Aviao\bin\Debug\net6.0\Exercicio_Aviao.pdb
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.dll
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\refint\Exercicio_Aviao.dll
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.pdb
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\Exercicio_Aviao.genruntimeconfig.cache
+E:\SW_1-2023\Exercicio_Aviao\obj\Debug\net6.0\ref\Exercicio_Aviao.dll
