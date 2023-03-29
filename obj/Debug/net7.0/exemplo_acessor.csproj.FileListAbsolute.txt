@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exemplo_acessor\bin\Debug\net7.0\exemplo_acessor.exe
+C:\Users\LAB4\Desktop\exemplo_acessor\bin\Debug\net7.0\exemplo_acessor.deps.json
+C:\Users\LAB4\Desktop\exemplo_acessor\bin\Debug\net7.0\exemplo_acessor.runtimeconfig.json
+C:\Users\LAB4\Desktop\exemplo_acessor\bin\Debug\net7.0\exemplo_acessor.dll
+C:\Users\LAB4\Desktop\exemplo_acessor\bin\Debug\net7.0\exemplo_acessor.pdb
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.dll
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\refint\exemplo_acessor.dll
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.pdb
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\exemplo_acessor.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exemplo_acessor\obj\Debug\net7.0\ref\exemplo_acessor.dll
