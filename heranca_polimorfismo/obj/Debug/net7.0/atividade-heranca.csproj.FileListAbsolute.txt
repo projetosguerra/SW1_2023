@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\atividade-heranca.exe
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\atividade-heranca.deps.json
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\atividade-heranca.runtimeconfig.json
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\atividade-heranca.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\atividade-heranca.pdb
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\refint\atividade-heranca.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.pdb
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\atividade-heranca.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\ref\atividade-heranca.dll
