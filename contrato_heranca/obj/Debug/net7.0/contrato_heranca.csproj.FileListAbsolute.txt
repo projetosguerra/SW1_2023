@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\contrato_heranca\bin\Debug\net7.0\contrato_heranca.exe
+C:\Users\LAB4\Desktop\contrato_heranca\bin\Debug\net7.0\contrato_heranca.deps.json
+C:\Users\LAB4\Desktop\contrato_heranca\bin\Debug\net7.0\contrato_heranca.runtimeconfig.json
+C:\Users\LAB4\Desktop\contrato_heranca\bin\Debug\net7.0\contrato_heranca.dll
+C:\Users\LAB4\Desktop\contrato_heranca\bin\Debug\net7.0\contrato_heranca.pdb
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.dll
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\refint\contrato_heranca.dll
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.pdb
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\contrato_heranca.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\contrato_heranca\obj\Debug\net7.0\ref\contrato_heranca.dll
