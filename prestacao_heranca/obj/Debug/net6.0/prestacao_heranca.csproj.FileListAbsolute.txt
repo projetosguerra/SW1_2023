@@ -1,0 +1,15 @@
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\bin\Debug\net6.0\prestacao_heranca.exe
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\bin\Debug\net6.0\prestacao_heranca.deps.json
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\bin\Debug\net6.0\prestacao_heranca.runtimeconfig.json
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\bin\Debug\net6.0\prestacao_heranca.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\bin\Debug\net6.0\prestacao_heranca.pdb
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\refint\prestacao_heranca.dll
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.pdb
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\prestacao_heranca.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Área de Trabalho\prestacao_heranca\obj\Debug\net6.0\ref\prestacao_heranca.dll
